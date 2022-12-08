@@ -22,7 +22,10 @@ fn guessing_algorithm(){
         .read_line(&mut guess)
         .expect("Failed to read line");
 
-        let guess: u32 = guess.trim().parse().expect("!لطفآ ی شماره بنویسید");
+        let guess: u32 = match guess.trim().parse() {
+            Ok(num) => num,
+            Err(_) => continue,
+        };
 
         //        println!(".انتخاب کردید {guess} شماری");
 
