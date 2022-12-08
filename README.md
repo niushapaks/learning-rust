@@ -23,3 +23,6 @@ cargo check
 - https://www.linuxfromscratch.org
 - https://github.com/comfies/tldrlfs
 - https://www.jcwolfram.de/projekte/mxe11_en/main.php
+
+📦
+- https://doc.rust-lang.org/stable/cargo
