@@ -22,3 +22,4 @@ cargo check
 - https://github.com/Rust-for-Linux
 - https://www.linuxfromscratch.org
 - https://github.com/comfies/tldrlfs
+- https://www.jcwolfram.de/projekte/mxe11_en/main.php
