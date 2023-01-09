@@ -17,6 +17,8 @@ cargo check
 📚
 - https://github.com/rust-unofficial/awesome-rust
 - https://doc.rust-lang.org/stable/embedded-book
+- https://jimskapt.github.io/rust-book-fr
+- https://doc.rust-lang.org/nomicon
 
 🐧
 - https://github.com/Rust-for-Linux
